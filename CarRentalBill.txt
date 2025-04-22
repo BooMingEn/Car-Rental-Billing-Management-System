@@ -1,0 +1,1933 @@
+***************************************************************************************
+
+              Car Rental Receipt for Customer1
+
+Car Type                              : Sedan
+Quantity Total                        : 1
+Price                                 : RM185.00
+Add Delivery                          : Yes
+New price + Gov Tax                   : RM213.20
+
+Thank you and please come again
+
+****************************************************************************************
+
+
+***************************************************************************************
+
+              Car Rental Receipt for Customer2
+
+Car Type                              : MPV
+Quantity Total                        : 4
+Price                                 : RM2200.00
+Add Delivery                          : Yes
+New price + Gov Tax                   : RM2308.80
+
+Thank you and please come again
+
+****************************************************************************************
+
+
+***************************************************************************************
+
+              Car Rental Receipt for Customer3
+
+Car Type                              : SUV
+Quantity Total                        : 0
+Price                                 : RM0.00
+Add Delivery                          : Yes
+New price + Gov Tax                   : RM20.80
+
+Thank you and please come again
+
+****************************************************************************************
+
+
+***************************************************************************************
+
+              Car Rental Receipt for Customer4
+
+Car Type                              : SUV
+Quantity Total                        : 0
+Price                                 : RM0.00
+Add Delivery                          : Yes
+New price + Gov Tax                   : RM20.80
+
+Thank you and please come again
+
+****************************************************************************************
+
+
+***************************************************************************************
+
+              Car Rental Receipt for Customer5
+
+Car Type                              : SUV
+Quantity Total                        : 0
+Price                                 : RM0.00
+Add Delivery                          : Yes
+New price + Gov Tax                   : RM20.80
+
+Thank you and please come again
+
+****************************************************************************************
+
+
+***************************************************************************************
+
+              Car Rental Receipt for Customer6
+
+Car Type                              : SUV
+Quantity Total                        : 0
+Price                                 : RM0.00
+Add Delivery                          : Yes
+New price + Gov Tax                   : RM20.80
+
+Thank you and please come again
+
+****************************************************************************************
+
+
+***************************************************************************************
+
+              Car Rental Receipt for Customer7
+
+Car Type                              : SUV
+Quantity Total                        : 0
+Price                                 : RM0.00
+Add Delivery                          : Yes
+New price + Gov Tax                   : RM20.80
+
+Thank you and please come again
+
+****************************************************************************************
+
+
+***************************************************************************************
+
+              Car Rental Receipt for Customer8
+
+Car Type                              : SUV
+Quantity Total                        : 0
+Price                                 : RM0.00
+Add Delivery                          : Yes
+New price + Gov Tax                   : RM20.80
+
+Thank you and please come again
+
+****************************************************************************************
+
+
+***************************************************************************************
+
+              Car Rental Receipt for Customer9
+
+Car Type                              : SUV
+Quantity Total                        : 0
+Price                                 : RM0.00
+Add Delivery                          : Yes
+New price + Gov Tax                   : RM20.80
+
+Thank you and please come again
+
+****************************************************************************************
+
+
+***************************************************************************************
+
+              Car Rental Receipt for Customer10
+
+Car Type                              : SUV
+Quantity Total                        : 0
+Price                                 : RM0.00
+Add Delivery                          : Yes
+New price + Gov Tax                   : RM20.80
+
+Thank you and please come again
+
+****************************************************************************************
+
+
+***************************************************************************************
+
+              Car Rental Receipt for Customer11
+
+Car Type                              : SUV
+Quantity Total                        : 0
+Price                                 : RM0.00
+Add Delivery                          : Yes
+New price + Gov Tax                   : RM20.80
+
+Thank you and please come again
+
+****************************************************************************************
+
+
+***************************************************************************************
+
+              Car Rental Receipt for Customer12
+
+Car Type                              : SUV
+Quantity Total                        : 0
+Price                                 : RM0.00
+Add Delivery                          : Yes
+New price + Gov Tax                   : RM20.80
+
+Thank you and please come again
+
+****************************************************************************************
+
+
+***************************************************************************************
+
+              Car Rental Receipt for Customer13
+
+Car Type                              : SUV
+Quantity Total                        : 0
+Price                                 : RM0.00
+Add Delivery                          : Yes
+New price + Gov Tax                   : RM20.80
+
+Thank you and please come again
+
+****************************************************************************************
+
+
+***************************************************************************************
+
+              Car Rental Receipt for Customer14
+
+Car Type                              : SUV
+Quantity Total                        : 0
+Price                                 : RM0.00
+Add Delivery                          : Yes
+New price + Gov Tax                   : RM20.80
+
+Thank you and please come again
+
+****************************************************************************************
+
+
+***************************************************************************************
+
+              Car Rental Receipt for Customer15
+
+Car Type                              : SUV
+Quantity Total                        : 0
+Price                                 : RM0.00
+Add Delivery                          : Yes
+New price + Gov Tax                   : RM20.80
+
+Thank you and please come again
+
+****************************************************************************************
+
+
+***************************************************************************************
+
+              Car Rental Receipt for Customer16
+
+Car Type                              : SUV
+Quantity Total                        : 0
+Price                                 : RM0.00
+Add Delivery                          : Yes
+New price + Gov Tax                   : RM20.80
+
+Thank you and please come again
+
+****************************************************************************************
+
+
+***************************************************************************************
+
+              Car Rental Receipt for Customer17
+
+Car Type                              : SUV
+Quantity Total                        : 0
+Price                                 : RM0.00
+Add Delivery                          : Yes
+New price + Gov Tax                   : RM20.80
+
+Thank you and please come again
+
+****************************************************************************************
+
+
+***************************************************************************************
+
+              Car Rental Receipt for Customer18
+
+Car Type                              : SUV
+Quantity Total                        : 0
+Price                                 : RM0.00
+Add Delivery                          : Yes
+New price + Gov Tax                   : RM20.80
+
+Thank you and please come again
+
+****************************************************************************************
+
+
+***************************************************************************************
+
+              Car Rental Receipt for Customer19
+
+Car Type                              : SUV
+Quantity Total                        : 0
+Price                                 : RM0.00
+Add Delivery                          : Yes
+New price + Gov Tax                   : RM20.80
+
+Thank you and please come again
+
+****************************************************************************************
+
+
+***************************************************************************************
+
+              Car Rental Receipt for Customer20
+
+Car Type                              : SUV
+Quantity Total                        : 0
+Price                                 : RM0.00
+Add Delivery                          : Yes
+New price + Gov Tax                   : RM20.80
+
+Thank you and please come again
+
+****************************************************************************************
+
+
+***************************************************************************************
+
+              Car Rental Receipt for Customer21
+
+Car Type                              : SUV
+Quantity Total                        : 0
+Price                                 : RM0.00
+Add Delivery                          : Yes
+New price + Gov Tax                   : RM20.80
+
+Thank you and please come again
+
+****************************************************************************************
+
+
+***************************************************************************************
+
+              Car Rental Receipt for Customer22
+
+Car Type                              : SUV
+Quantity Total                        : 0
+Price                                 : RM0.00
+Add Delivery                          : Yes
+New price + Gov Tax                   : RM20.80
+
+Thank you and please come again
+
+****************************************************************************************
+
+
+***************************************************************************************
+
+              Car Rental Receipt for Customer23
+
+Car Type                              : SUV
+Quantity Total                        : 0
+Price                                 : RM0.00
+Add Delivery                          : Yes
+New price + Gov Tax                   : RM20.80
+
+Thank you and please come again
+
+****************************************************************************************
+
+
+***************************************************************************************
+
+              Car Rental Receipt for Customer24
+
+Car Type                              : SUV
+Quantity Total                        : 0
+Price                                 : RM0.00
+Add Delivery                          : Yes
+New price + Gov Tax                   : RM20.80
+
+Thank you and please come again
+
+****************************************************************************************
+
+
+***************************************************************************************
+
+              Car Rental Receipt for Customer25
+
+Car Type                              : SUV
+Quantity Total                        : 0
+Price                                 : RM0.00
+Add Delivery                          : Yes
+New price + Gov Tax                   : RM20.80
+
+Thank you and please come again
+
+****************************************************************************************
+
+
+***************************************************************************************
+
+              Car Rental Receipt for Customer26
+
+Car Type                              : SUV
+Quantity Total                        : 0
+Price                                 : RM0.00
+Add Delivery                          : Yes
+New price + Gov Tax                   : RM20.80
+
+Thank you and please come again
+
+****************************************************************************************
+
+
+***************************************************************************************
+
+              Car Rental Receipt for Customer27
+
+Car Type                              : SUV
+Quantity Total                        : 0
+Price                                 : RM0.00
+Add Delivery                          : Yes
+New price + Gov Tax                   : RM20.80
+
+Thank you and please come again
+
+****************************************************************************************
+
+
+***************************************************************************************
+
+              Car Rental Receipt for Customer28
+
+Car Type                              : SUV
+Quantity Total                        : 0
+Price                                 : RM0.00
+Add Delivery                          : Yes
+New price + Gov Tax                   : RM20.80
+
+Thank you and please come again
+
+****************************************************************************************
+
+
+***************************************************************************************
+
+              Car Rental Receipt for Customer29
+
+Car Type                              : SUV
+Quantity Total                        : 0
+Price                                 : RM0.00
+Add Delivery                          : Yes
+New price + Gov Tax                   : RM20.80
+
+Thank you and please come again
+
+****************************************************************************************
+
+
+***************************************************************************************
+
+              Car Rental Receipt for Customer30
+
+Car Type                              : SUV
+Quantity Total                        : 0
+Price                                 : RM0.00
+Add Delivery                          : Yes
+New price + Gov Tax                   : RM20.80
+
+Thank you and please come again
+
+****************************************************************************************
+
+
+***************************************************************************************
+
+              Car Rental Receipt for Customer31
+
+Car Type                              : SUV
+Quantity Total                        : 0
+Price                                 : RM0.00
+Add Delivery                          : Yes
+New price + Gov Tax                   : RM20.80
+
+Thank you and please come again
+
+****************************************************************************************
+
+
+***************************************************************************************
+
+              Car Rental Receipt for Customer32
+
+Car Type                              : SUV
+Quantity Total                        : 0
+Price                                 : RM0.00
+Add Delivery                          : Yes
+New price + Gov Tax                   : RM20.80
+
+Thank you and please come again
+
+****************************************************************************************
+
+
+***************************************************************************************
+
+              Car Rental Receipt for Customer33
+
+Car Type                              : SUV
+Quantity Total                        : 0
+Price                                 : RM0.00
+Add Delivery                          : Yes
+New price + Gov Tax                   : RM20.80
+
+Thank you and please come again
+
+****************************************************************************************
+
+
+***************************************************************************************
+
+              Car Rental Receipt for Customer34
+
+Car Type                              : SUV
+Quantity Total                        : 0
+Price                                 : RM0.00
+Add Delivery                          : Yes
+New price + Gov Tax                   : RM20.80
+
+Thank you and please come again
+
+****************************************************************************************
+
+
+***************************************************************************************
+
+              Car Rental Receipt for Customer35
+
+Car Type                              : SUV
+Quantity Total                        : 0
+Price                                 : RM0.00
+Add Delivery                          : Yes
+New price + Gov Tax                   : RM20.80
+
+Thank you and please come again
+
+****************************************************************************************
+
+
+***************************************************************************************
+
+              Car Rental Receipt for Customer36
+
+Car Type                              : SUV
+Quantity Total                        : 0
+Price                                 : RM0.00
+Add Delivery                          : Yes
+New price + Gov Tax                   : RM20.80
+
+Thank you and please come again
+
+****************************************************************************************
+
+
+***************************************************************************************
+
+              Car Rental Receipt for Customer37
+
+Car Type                              : SUV
+Quantity Total                        : 0
+Price                                 : RM0.00
+Add Delivery                          : Yes
+New price + Gov Tax                   : RM20.80
+
+Thank you and please come again
+
+****************************************************************************************
+
+
+***************************************************************************************
+
+              Car Rental Receipt for Customer38
+
+Car Type                              : SUV
+Quantity Total                        : 0
+Price                                 : RM0.00
+Add Delivery                          : Yes
+New price + Gov Tax                   : RM20.80
+
+Thank you and please come again
+
+****************************************************************************************
+
+
+***************************************************************************************
+
+              Car Rental Receipt for Customer39
+
+Car Type                              : SUV
+Quantity Total                        : 0
+Price                                 : RM0.00
+Add Delivery                          : Yes
+New price + Gov Tax                   : RM20.80
+
+Thank you and please come again
+
+****************************************************************************************
+
+
+***************************************************************************************
+
+              Car Rental Receipt for Customer40
+
+Car Type                              : SUV
+Quantity Total                        : 0
+Price                                 : RM0.00
+Add Delivery                          : Yes
+New price + Gov Tax                   : RM20.80
+
+Thank you and please come again
+
+****************************************************************************************
+
+
+***************************************************************************************
+
+              Car Rental Receipt for Customer41
+
+Car Type                              : SUV
+Quantity Total                        : 0
+Price                                 : RM0.00
+Add Delivery                          : Yes
+New price + Gov Tax                   : RM20.80
+
+Thank you and please come again
+
+****************************************************************************************
+
+
+***************************************************************************************
+
+              Car Rental Receipt for Customer42
+
+Car Type                              : SUV
+Quantity Total                        : 0
+Price                                 : RM0.00
+Add Delivery                          : Yes
+New price + Gov Tax                   : RM20.80
+
+Thank you and please come again
+
+****************************************************************************************
+
+
+***************************************************************************************
+
+              Car Rental Receipt for Customer43
+
+Car Type                              : SUV
+Quantity Total                        : 0
+Price                                 : RM0.00
+Add Delivery                          : Yes
+New price + Gov Tax                   : RM20.80
+
+Thank you and please come again
+
+****************************************************************************************
+
+
+***************************************************************************************
+
+              Car Rental Receipt for Customer44
+
+Car Type                              : SUV
+Quantity Total                        : 0
+Price                                 : RM0.00
+Add Delivery                          : Yes
+New price + Gov Tax                   : RM20.80
+
+Thank you and please come again
+
+****************************************************************************************
+
+
+***************************************************************************************
+
+              Car Rental Receipt for Customer45
+
+Car Type                              : SUV
+Quantity Total                        : 0
+Price                                 : RM0.00
+Add Delivery                          : Yes
+New price + Gov Tax                   : RM20.80
+
+Thank you and please come again
+
+****************************************************************************************
+
+
+***************************************************************************************
+
+              Car Rental Receipt for Customer46
+
+Car Type                              : SUV
+Quantity Total                        : 0
+Price                                 : RM0.00
+Add Delivery                          : Yes
+New price + Gov Tax                   : RM20.80
+
+Thank you and please come again
+
+****************************************************************************************
+
+
+***************************************************************************************
+
+              Car Rental Receipt for Customer47
+
+Car Type                              : SUV
+Quantity Total                        : 0
+Price                                 : RM0.00
+Add Delivery                          : Yes
+New price + Gov Tax                   : RM20.80
+
+Thank you and please come again
+
+****************************************************************************************
+
+
+***************************************************************************************
+
+              Car Rental Receipt for Customer48
+
+Car Type                              : SUV
+Quantity Total                        : 0
+Price                                 : RM0.00
+Add Delivery                          : Yes
+New price + Gov Tax                   : RM20.80
+
+Thank you and please come again
+
+****************************************************************************************
+
+
+***************************************************************************************
+
+              Car Rental Receipt for Customer49
+
+Car Type                              : SUV
+Quantity Total                        : 0
+Price                                 : RM0.00
+Add Delivery                          : Yes
+New price + Gov Tax                   : RM20.80
+
+Thank you and please come again
+
+****************************************************************************************
+
+
+***************************************************************************************
+
+              Car Rental Receipt for Customer50
+
+Car Type                              : SUV
+Quantity Total                        : 0
+Price                                 : RM0.00
+Add Delivery                          : Yes
+New price + Gov Tax                   : RM20.80
+
+Thank you and please come again
+
+****************************************************************************************
+
+
+***************************************************************************************
+
+              Car Rental Receipt for Customer51
+
+Car Type                              : SUV
+Quantity Total                        : 0
+Price                                 : RM0.00
+Add Delivery                          : Yes
+New price + Gov Tax                   : RM20.80
+
+Thank you and please come again
+
+****************************************************************************************
+
+
+***************************************************************************************
+
+              Car Rental Receipt for Customer52
+
+Car Type                              : SUV
+Quantity Total                        : 0
+Price                                 : RM0.00
+Add Delivery                          : Yes
+New price + Gov Tax                   : RM20.80
+
+Thank you and please come again
+
+****************************************************************************************
+
+
+***************************************************************************************
+
+              Car Rental Receipt for Customer53
+
+Car Type                              : SUV
+Quantity Total                        : 0
+Price                                 : RM0.00
+Add Delivery                          : Yes
+New price + Gov Tax                   : RM20.80
+
+Thank you and please come again
+
+****************************************************************************************
+
+
+***************************************************************************************
+
+              Car Rental Receipt for Customer54
+
+Car Type                              : SUV
+Quantity Total                        : 0
+Price                                 : RM0.00
+Add Delivery                          : Yes
+New price + Gov Tax                   : RM20.80
+
+Thank you and please come again
+
+****************************************************************************************
+
+
+***************************************************************************************
+
+              Car Rental Receipt for Customer55
+
+Car Type                              : SUV
+Quantity Total                        : 0
+Price                                 : RM0.00
+Add Delivery                          : Yes
+New price + Gov Tax                   : RM20.80
+
+Thank you and please come again
+
+****************************************************************************************
+
+
+***************************************************************************************
+
+              Car Rental Receipt for Customer56
+
+Car Type                              : SUV
+Quantity Total                        : 0
+Price                                 : RM0.00
+Add Delivery                          : Yes
+New price + Gov Tax                   : RM20.80
+
+Thank you and please come again
+
+****************************************************************************************
+
+
+***************************************************************************************
+
+              Car Rental Receipt for Customer57
+
+Car Type                              : SUV
+Quantity Total                        : 0
+Price                                 : RM0.00
+Add Delivery                          : Yes
+New price + Gov Tax                   : RM20.80
+
+Thank you and please come again
+
+****************************************************************************************
+
+
+***************************************************************************************
+
+              Car Rental Receipt for Customer58
+
+Car Type                              : SUV
+Quantity Total                        : 0
+Price                                 : RM0.00
+Add Delivery                          : Yes
+New price + Gov Tax                   : RM20.80
+
+Thank you and please come again
+
+****************************************************************************************
+
+
+***************************************************************************************
+
+              Car Rental Receipt for Customer59
+
+Car Type                              : SUV
+Quantity Total                        : 0
+Price                                 : RM0.00
+Add Delivery                          : Yes
+New price + Gov Tax                   : RM20.80
+
+Thank you and please come again
+
+****************************************************************************************
+
+
+***************************************************************************************
+
+              Car Rental Receipt for Customer60
+
+Car Type                              : SUV
+Quantity Total                        : 0
+Price                                 : RM0.00
+Add Delivery                          : Yes
+New price + Gov Tax                   : RM20.80
+
+Thank you and please come again
+
+****************************************************************************************
+
+
+***************************************************************************************
+
+              Car Rental Receipt for Customer61
+
+Car Type                              : SUV
+Quantity Total                        : 0
+Price                                 : RM0.00
+Add Delivery                          : Yes
+New price + Gov Tax                   : RM20.80
+
+Thank you and please come again
+
+****************************************************************************************
+
+
+***************************************************************************************
+
+              Car Rental Receipt for Customer62
+
+Car Type                              : SUV
+Quantity Total                        : 0
+Price                                 : RM0.00
+Add Delivery                          : Yes
+New price + Gov Tax                   : RM20.80
+
+Thank you and please come again
+
+****************************************************************************************
+
+
+***************************************************************************************
+
+              Car Rental Receipt for Customer63
+
+Car Type                              : SUV
+Quantity Total                        : 0
+Price                                 : RM0.00
+Add Delivery                          : Yes
+New price + Gov Tax                   : RM20.80
+
+Thank you and please come again
+
+****************************************************************************************
+
+
+***************************************************************************************
+
+              Car Rental Receipt for Customer64
+
+Car Type                              : SUV
+Quantity Total                        : 0
+Price                                 : RM0.00
+Add Delivery                          : Yes
+New price + Gov Tax                   : RM20.80
+
+Thank you and please come again
+
+****************************************************************************************
+
+
+***************************************************************************************
+
+              Car Rental Receipt for Customer65
+
+Car Type                              : SUV
+Quantity Total                        : 0
+Price                                 : RM0.00
+Add Delivery                          : Yes
+New price + Gov Tax                   : RM20.80
+
+Thank you and please come again
+
+****************************************************************************************
+
+
+***************************************************************************************
+
+              Car Rental Receipt for Customer66
+
+Car Type                              : SUV
+Quantity Total                        : 0
+Price                                 : RM0.00
+Add Delivery                          : Yes
+New price + Gov Tax                   : RM20.80
+
+Thank you and please come again
+
+****************************************************************************************
+
+
+***************************************************************************************
+
+              Car Rental Receipt for Customer67
+
+Car Type                              : SUV
+Quantity Total                        : 0
+Price                                 : RM0.00
+Add Delivery                          : Yes
+New price + Gov Tax                   : RM20.80
+
+Thank you and please come again
+
+****************************************************************************************
+
+
+***************************************************************************************
+
+              Car Rental Receipt for Customer68
+
+Car Type                              : SUV
+Quantity Total                        : 0
+Price                                 : RM0.00
+Add Delivery                          : Yes
+New price + Gov Tax                   : RM20.80
+
+Thank you and please come again
+
+****************************************************************************************
+
+
+***************************************************************************************
+
+              Car Rental Receipt for Customer69
+
+Car Type                              : SUV
+Quantity Total                        : 0
+Price                                 : RM0.00
+Add Delivery                          : Yes
+New price + Gov Tax                   : RM20.80
+
+Thank you and please come again
+
+****************************************************************************************
+
+
+***************************************************************************************
+
+              Car Rental Receipt for Customer70
+
+Car Type                              : SUV
+Quantity Total                        : 0
+Price                                 : RM0.00
+Add Delivery                          : Yes
+New price + Gov Tax                   : RM20.80
+
+Thank you and please come again
+
+****************************************************************************************
+
+
+***************************************************************************************
+
+              Car Rental Receipt for Customer71
+
+Car Type                              : SUV
+Quantity Total                        : 0
+Price                                 : RM0.00
+Add Delivery                          : Yes
+New price + Gov Tax                   : RM20.80
+
+Thank you and please come again
+
+****************************************************************************************
+
+
+***************************************************************************************
+
+              Car Rental Receipt for Customer72
+
+Car Type                              : SUV
+Quantity Total                        : 0
+Price                                 : RM0.00
+Add Delivery                          : Yes
+New price + Gov Tax                   : RM20.80
+
+Thank you and please come again
+
+****************************************************************************************
+
+
+***************************************************************************************
+
+              Car Rental Receipt for Customer73
+
+Car Type                              : SUV
+Quantity Total                        : 0
+Price                                 : RM0.00
+Add Delivery                          : Yes
+New price + Gov Tax                   : RM20.80
+
+Thank you and please come again
+
+****************************************************************************************
+
+
+***************************************************************************************
+
+              Car Rental Receipt for Customer74
+
+Car Type                              : SUV
+Quantity Total                        : 0
+Price                                 : RM0.00
+Add Delivery                          : Yes
+New price + Gov Tax                   : RM20.80
+
+Thank you and please come again
+
+****************************************************************************************
+
+
+***************************************************************************************
+
+              Car Rental Receipt for Customer75
+
+Car Type                              : SUV
+Quantity Total                        : 0
+Price                                 : RM0.00
+Add Delivery                          : Yes
+New price + Gov Tax                   : RM20.80
+
+Thank you and please come again
+
+****************************************************************************************
+
+
+***************************************************************************************
+
+              Car Rental Receipt for Customer76
+
+Car Type                              : SUV
+Quantity Total                        : 0
+Price                                 : RM0.00
+Add Delivery                          : Yes
+New price + Gov Tax                   : RM20.80
+
+Thank you and please come again
+
+****************************************************************************************
+
+
+***************************************************************************************
+
+              Car Rental Receipt for Customer77
+
+Car Type                              : SUV
+Quantity Total                        : 0
+Price                                 : RM0.00
+Add Delivery                          : Yes
+New price + Gov Tax                   : RM20.80
+
+Thank you and please come again
+
+****************************************************************************************
+
+
+***************************************************************************************
+
+              Car Rental Receipt for Customer78
+
+Car Type                              : SUV
+Quantity Total                        : 0
+Price                                 : RM0.00
+Add Delivery                          : Yes
+New price + Gov Tax                   : RM20.80
+
+Thank you and please come again
+
+****************************************************************************************
+
+
+***************************************************************************************
+
+              Car Rental Receipt for Customer79
+
+Car Type                              : SUV
+Quantity Total                        : 0
+Price                                 : RM0.00
+Add Delivery                          : Yes
+New price + Gov Tax                   : RM20.80
+
+Thank you and please come again
+
+****************************************************************************************
+
+
+***************************************************************************************
+
+              Car Rental Receipt for Customer80
+
+Car Type                              : SUV
+Quantity Total                        : 0
+Price                                 : RM0.00
+Add Delivery                          : Yes
+New price + Gov Tax                   : RM20.80
+
+Thank you and please come again
+
+****************************************************************************************
+
+
+***************************************************************************************
+
+              Car Rental Receipt for Customer81
+
+Car Type                              : SUV
+Quantity Total                        : 0
+Price                                 : RM0.00
+Add Delivery                          : Yes
+New price + Gov Tax                   : RM20.80
+
+Thank you and please come again
+
+****************************************************************************************
+
+
+***************************************************************************************
+
+              Car Rental Receipt for Customer82
+
+Car Type                              : SUV
+Quantity Total                        : 0
+Price                                 : RM0.00
+Add Delivery                          : Yes
+New price + Gov Tax                   : RM20.80
+
+Thank you and please come again
+
+****************************************************************************************
+
+
+***************************************************************************************
+
+              Car Rental Receipt for Customer83
+
+Car Type                              : SUV
+Quantity Total                        : 0
+Price                                 : RM0.00
+Add Delivery                          : Yes
+New price + Gov Tax                   : RM20.80
+
+Thank you and please come again
+
+****************************************************************************************
+
+
+***************************************************************************************
+
+              Car Rental Receipt for Customer84
+
+Car Type                              : SUV
+Quantity Total                        : 0
+Price                                 : RM0.00
+Add Delivery                          : Yes
+New price + Gov Tax                   : RM20.80
+
+Thank you and please come again
+
+****************************************************************************************
+
+
+***************************************************************************************
+
+              Car Rental Receipt for Customer85
+
+Car Type                              : SUV
+Quantity Total                        : 0
+Price                                 : RM0.00
+Add Delivery                          : Yes
+New price + Gov Tax                   : RM20.80
+
+Thank you and please come again
+
+****************************************************************************************
+
+
+***************************************************************************************
+
+              Car Rental Receipt for Customer86
+
+Car Type                              : SUV
+Quantity Total                        : 0
+Price                                 : RM0.00
+Add Delivery                          : Yes
+New price + Gov Tax                   : RM20.80
+
+Thank you and please come again
+
+****************************************************************************************
+
+
+***************************************************************************************
+
+              Car Rental Receipt for Customer87
+
+Car Type                              : SUV
+Quantity Total                        : 0
+Price                                 : RM0.00
+Add Delivery                          : Yes
+New price + Gov Tax                   : RM20.80
+
+Thank you and please come again
+
+****************************************************************************************
+
+
+***************************************************************************************
+
+              Car Rental Receipt for Customer88
+
+Car Type                              : SUV
+Quantity Total                        : 0
+Price                                 : RM0.00
+Add Delivery                          : Yes
+New price + Gov Tax                   : RM20.80
+
+Thank you and please come again
+
+****************************************************************************************
+
+
+***************************************************************************************
+
+              Car Rental Receipt for Customer89
+
+Car Type                              : SUV
+Quantity Total                        : 0
+Price                                 : RM0.00
+Add Delivery                          : Yes
+New price + Gov Tax                   : RM20.80
+
+Thank you and please come again
+
+****************************************************************************************
+
+
+***************************************************************************************
+
+              Car Rental Receipt for Customer90
+
+Car Type                              : SUV
+Quantity Total                        : 0
+Price                                 : RM0.00
+Add Delivery                          : Yes
+New price + Gov Tax                   : RM20.80
+
+Thank you and please come again
+
+****************************************************************************************
+
+
+***************************************************************************************
+
+              Car Rental Receipt for Customer91
+
+Car Type                              : SUV
+Quantity Total                        : 0
+Price                                 : RM0.00
+Add Delivery                          : Yes
+New price + Gov Tax                   : RM20.80
+
+Thank you and please come again
+
+****************************************************************************************
+
+
+***************************************************************************************
+
+              Car Rental Receipt for Customer92
+
+Car Type                              : SUV
+Quantity Total                        : 0
+Price                                 : RM0.00
+Add Delivery                          : Yes
+New price + Gov Tax                   : RM20.80
+
+Thank you and please come again
+
+****************************************************************************************
+
+
+***************************************************************************************
+
+              Car Rental Receipt for Customer93
+
+Car Type                              : SUV
+Quantity Total                        : 0
+Price                                 : RM0.00
+Add Delivery                          : Yes
+New price + Gov Tax                   : RM20.80
+
+Thank you and please come again
+
+****************************************************************************************
+
+
+***************************************************************************************
+
+              Car Rental Receipt for Customer94
+
+Car Type                              : SUV
+Quantity Total                        : 0
+Price                                 : RM0.00
+Add Delivery                          : Yes
+New price + Gov Tax                   : RM20.80
+
+Thank you and please come again
+
+****************************************************************************************
+
+
+***************************************************************************************
+
+              Car Rental Receipt for Customer95
+
+Car Type                              : SUV
+Quantity Total                        : 0
+Price                                 : RM0.00
+Add Delivery                          : Yes
+New price + Gov Tax                   : RM20.80
+
+Thank you and please come again
+
+****************************************************************************************
+
+
+***************************************************************************************
+
+              Car Rental Receipt for Customer96
+
+Car Type                              : SUV
+Quantity Total                        : 0
+Price                                 : RM0.00
+Add Delivery                          : Yes
+New price + Gov Tax                   : RM20.80
+
+Thank you and please come again
+
+****************************************************************************************
+
+
+***************************************************************************************
+
+              Car Rental Receipt for Customer97
+
+Car Type                              : SUV
+Quantity Total                        : 0
+Price                                 : RM0.00
+Add Delivery                          : Yes
+New price + Gov Tax                   : RM20.80
+
+Thank you and please come again
+
+****************************************************************************************
+
+
+***************************************************************************************
+
+              Car Rental Receipt for Customer98
+
+Car Type                              : SUV
+Quantity Total                        : 0
+Price                                 : RM0.00
+Add Delivery                          : Yes
+New price + Gov Tax                   : RM20.80
+
+Thank you and please come again
+
+****************************************************************************************
+
+
+***************************************************************************************
+
+              Car Rental Receipt for Customer99
+
+Car Type                              : SUV
+Quantity Total                        : 0
+Price                                 : RM0.00
+Add Delivery                          : Yes
+New price + Gov Tax                   : RM20.80
+
+Thank you and please come again
+
+****************************************************************************************
+
+
+***************************************************************************************
+
+              Car Rental Receipt for Customer100
+
+Car Type                              : SUV
+Quantity Total                        : 0
+Price                                 : RM0.00
+Add Delivery                          : Yes
+New price + Gov Tax                   : RM20.80
+
+Thank you and please come again
+
+****************************************************************************************
+
+
+***************************************************************************************
+
+              Car Rental Receipt for Customer101
+
+Car Type                              : SUV
+Quantity Total                        : 0
+Price                                 : RM0.00
+Add Delivery                          : Yes
+New price + Gov Tax                   : RM20.80
+
+Thank you and please come again
+
+****************************************************************************************
+
+
+***************************************************************************************
+
+              Car Rental Receipt for Customer102
+
+Car Type                              : SUV
+Quantity Total                        : 0
+Price                                 : RM0.00
+Add Delivery                          : Yes
+New price + Gov Tax                   : RM20.80
+
+Thank you and please come again
+
+****************************************************************************************
+
+
+***************************************************************************************
+
+              Car Rental Receipt for Customer103
+
+Car Type                              : SUV
+Quantity Total                        : 0
+Price                                 : RM0.00
+Add Delivery                          : Yes
+New price + Gov Tax                   : RM20.80
+
+Thank you and please come again
+
+****************************************************************************************
+
+
+***************************************************************************************
+
+              Car Rental Receipt for Customer104
+
+Car Type                              : SUV
+Quantity Total                        : 0
+Price                                 : RM0.00
+Add Delivery                          : Yes
+New price + Gov Tax                   : RM20.80
+
+Thank you and please come again
+
+****************************************************************************************
+
+
+***************************************************************************************
+
+              Car Rental Receipt for Customer105
+
+Car Type                              : SUV
+Quantity Total                        : 0
+Price                                 : RM0.00
+Add Delivery                          : Yes
+New price + Gov Tax                   : RM20.80
+
+Thank you and please come again
+
+****************************************************************************************
+
+
+***************************************************************************************
+
+              Car Rental Receipt for Customer106
+
+Car Type                              : SUV
+Quantity Total                        : 0
+Price                                 : RM0.00
+Add Delivery                          : Yes
+New price + Gov Tax                   : RM20.80
+
+Thank you and please come again
+
+****************************************************************************************
+
+
+***************************************************************************************
+
+              Car Rental Receipt for Customer107
+
+Car Type                              : SUV
+Quantity Total                        : 0
+Price                                 : RM0.00
+Add Delivery                          : Yes
+New price + Gov Tax                   : RM20.80
+
+Thank you and please come again
+
+****************************************************************************************
+
+
+***************************************************************************************
+
+              Car Rental Receipt for Customer108
+
+Car Type                              : SUV
+Quantity Total                        : 0
+Price                                 : RM0.00
+Add Delivery                          : Yes
+New price + Gov Tax                   : RM20.80
+
+Thank you and please come again
+
+****************************************************************************************
+
+
+***************************************************************************************
+
+              Car Rental Receipt for Customer109
+
+Car Type                              : SUV
+Quantity Total                        : 0
+Price                                 : RM0.00
+Add Delivery                          : Yes
+New price + Gov Tax                   : RM20.80
+
+Thank you and please come again
+
+****************************************************************************************
+
+
+***************************************************************************************
+
+              Car Rental Receipt for Customer110
+
+Car Type                              : SUV
+Quantity Total                        : 0
+Price                                 : RM0.00
+Add Delivery                          : Yes
+New price + Gov Tax                   : RM20.80
+
+Thank you and please come again
+
+****************************************************************************************
+
+
+***************************************************************************************
+
+              Car Rental Receipt for Customer111
+
+Car Type                              : SUV
+Quantity Total                        : 0
+Price                                 : RM0.00
+Add Delivery                          : Yes
+New price + Gov Tax                   : RM20.80
+
+Thank you and please come again
+
+****************************************************************************************
+
+
+***************************************************************************************
+
+              Car Rental Receipt for Customer112
+
+Car Type                              : SUV
+Quantity Total                        : 0
+Price                                 : RM0.00
+Add Delivery                          : Yes
+New price + Gov Tax                   : RM20.80
+
+Thank you and please come again
+
+****************************************************************************************
+
+
+***************************************************************************************
+
+              Car Rental Receipt for Customer113
+
+Car Type                              : SUV
+Quantity Total                        : 0
+Price                                 : RM0.00
+Add Delivery                          : Yes
+New price + Gov Tax                   : RM20.80
+
+Thank you and please come again
+
+****************************************************************************************
+
+
+***************************************************************************************
+
+              Car Rental Receipt for Customer114
+
+Car Type                              : SUV
+Quantity Total                        : 0
+Price                                 : RM0.00
+Add Delivery                          : Yes
+New price + Gov Tax                   : RM20.80
+
+Thank you and please come again
+
+****************************************************************************************
+
+
+***************************************************************************************
+
+              Car Rental Receipt for Customer115
+
+Car Type                              : SUV
+Quantity Total                        : 0
+Price                                 : RM0.00
+Add Delivery                          : Yes
+New price + Gov Tax                   : RM20.80
+
+Thank you and please come again
+
+****************************************************************************************
+
+
+***************************************************************************************
+
+              Car Rental Receipt for Customer116
+
+Car Type                              : SUV
+Quantity Total                        : 0
+Price                                 : RM0.00
+Add Delivery                          : Yes
+New price + Gov Tax                   : RM20.80
+
+Thank you and please come again
+
+****************************************************************************************
+
+
+***************************************************************************************
+
+              Car Rental Receipt for Customer117
+
+Car Type                              : SUV
+Quantity Total                        : 0
+Price                                 : RM0.00
+Add Delivery                          : Yes
+New price + Gov Tax                   : RM20.80
+
+Thank you and please come again
+
+****************************************************************************************
+
+
+***************************************************************************************
+
+              Car Rental Receipt for Customer118
+
+Car Type                              : SUV
+Quantity Total                        : 0
+Price                                 : RM0.00
+Add Delivery                          : Yes
+New price + Gov Tax                   : RM20.80
+
+Thank you and please come again
+
+****************************************************************************************
+
+
+***************************************************************************************
+
+              Car Rental Receipt for Customer119
+
+Car Type                              : SUV
+Quantity Total                        : 0
+Price                                 : RM0.00
+Add Delivery                          : Yes
+New price + Gov Tax                   : RM20.80
+
+Thank you and please come again
+
+****************************************************************************************
+
+
+***************************************************************************************
+
+              Car Rental Receipt for Customer120
+
+Car Type                              : SUV
+Quantity Total                        : 0
+Price                                 : RM0.00
+Add Delivery                          : Yes
+New price + Gov Tax                   : RM20.80
+
+Thank you and please come again
+
+****************************************************************************************
+
+
+***************************************************************************************
+
+              Car Rental Receipt for Customer121
+
+Car Type                              : SUV
+Quantity Total                        : 0
+Price                                 : RM0.00
+Add Delivery                          : Yes
+New price + Gov Tax                   : RM20.80
+
+Thank you and please come again
+
+****************************************************************************************
+
+
+***************************************************************************************
+
+              Car Rental Receipt for Customer122
+
+Car Type                              : SUV
+Quantity Total                        : 0
+Price                                 : RM0.00
+Add Delivery                          : Yes
+New price + Gov Tax                   : RM20.80
+
+Thank you and please come again
+
+****************************************************************************************
+
+
+***************************************************************************************
+
+              Car Rental Receipt for Customer123
+
+Car Type                              : SUV
+Quantity Total                        : 0
+Price                                 : RM0.00
+Add Delivery                          : Yes
+New price + Gov Tax                   : RM20.80
+
+Thank you and please come again
+
+****************************************************************************************
+
+
+***************************************************************************************
+
+              Car Rental Receipt for Customer124
+
+Car Type                              : SUV
+Quantity Total                        : 0
+Price                                 : RM0.00
+Add Delivery                          : Yes
+New price + Gov Tax                   : RM20.80
+
+Thank you and please come again
+
+****************************************************************************************
+
+
+***************************************************************************************
+
+              Car Rental Receipt for Customer125
+
+Car Type                              : SUV
+Quantity Total                        : 0
+Price                                 : RM0.00
+Add Delivery                          : Yes
+New price + Gov Tax                   : RM20.80
+
+Thank you and please come again
+
+****************************************************************************************
+
+
+***************************************************************************************
+
+              Car Rental Receipt for Customer126
+
+Car Type                              : SUV
+Quantity Total                        : 0
+Price                                 : RM0.00
+Add Delivery                          : Yes
+New price + Gov Tax                   : RM20.80
+
+Thank you and please come again
+
+****************************************************************************************
+
+
+***************************************************************************************
+
+              Car Rental Receipt for Customer127
+
+Car Type                              : SUV
+Quantity Total                        : 0
+Price                                 : RM0.00
+Add Delivery                          : Yes
+New price + Gov Tax                   : RM20.80
+
+Thank you and please come again
+
+****************************************************************************************
+
+
+***************************************************************************************
+
+              Car Rental Receipt for Customer128
+
+Car Type                              : SUV
+Quantity Total                        : 0
+Price                                 : RM0.00
+Add Delivery                          : Yes
+New price + Gov Tax                   : RM20.80
+
+Thank you and please come again
+
+****************************************************************************************
+
+
+***************************************************************************************
+
+              Car Rental Receipt for Customer129
+
+Car Type                              : SUV
+Quantity Total                        : 0
+Price                                 : RM0.00
+Add Delivery                          : Yes
+New price + Gov Tax                   : RM20.80
+
+Thank you and please come again
+
+****************************************************************************************
